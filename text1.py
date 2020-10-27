@@ -8,7 +8,7 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 示例:
 输入: [0,1,2,3,4,5,6,7,9]
-输出: 8
+
 """
 len1=0
 list1=[]
